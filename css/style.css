@@ -6,11 +6,22 @@ header{
     background-color: #1ABC9C;
 }
 
-hr {
+.myhr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
     margin: 1em 0;
     padding: 0; 
+    border-radius: 95px 95px 95px 95px;
+    opacity: 1;
+  }
+
+  .myblack{
+    border-top: 5px solid black;
+    border-color: #2C3E50;
+  }
+
+  .mywhite{
+    border-top: 5px solid white;
+    border-color: white;
   }
