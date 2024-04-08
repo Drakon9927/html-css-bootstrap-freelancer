@@ -6,6 +6,14 @@ header{
     background-color: #1ABC9C;
 }
 
+.mybg-darkblue{
+    background-color: #3A546D;
+}
+
+.mybg-darkgrey{
+    background-color: #2C3E50;
+}
+
 .myhr {
     display: block;
     height: 1px;
@@ -25,3 +33,23 @@ header{
     border-top: 5px solid white;
     border-color: white;
   }
+
+  .btn{
+    border: 1px solid white;
+    background-color: #1ABC9C;
+
+  }
+
+.mybg-darkblue i.fa, #in{
+    border: 1px solid white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    line-height: 50px; 
+    text-align: center; 
+    padding: 0; 
+    margin: 5px;
+    color: white; 
+}
+
+    
