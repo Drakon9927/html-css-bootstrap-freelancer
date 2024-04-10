@@ -25,12 +25,12 @@ header{
   }
 
   .myblack{
-    border-top: 5px solid black;
+    border-top: 2px solid black;
     border-color: #2C3E50;
   }
 
   .mywhite{
-    border-top: 5px solid white;
+    border-top: 2px solid white;
     border-color: white;
   }
 
@@ -50,6 +50,10 @@ header{
     padding: 0; 
     margin: 5px;
     color: white; 
+}
+
+.mywidth{
+  width: 10%;
 }
 
     
